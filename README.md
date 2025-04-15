@@ -14,30 +14,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 Welcome to My GitHub Universe!
+![MasterHead]([https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ZzlzY2VuZHZ4bGowcDk5cXRodmQ3Mm9wZmV2MGtjZG52NGl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif)c)
 
-<h1 align="center">Hey, I'm Raksha! 👋</h1>
+<h1 align="center">Hey hey! 💁‍♀️ I'm Raksha — I put fun in functionality 🎉💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Passionate Developer | AI Enthusiast | Content Creator
+  <a href="https://github.com/RakshaCore">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&center=true&vCenter=true&lines=Funny+girl+on+a+coding+mission;Bringing+vibes+to+tech;Java+with+a+side+of+sass;Lover+of+bugs+(only+the+fixable+ones);Welcome+to+my+world+💻💖">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/raksha-prabhu-8b07b0228"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:prabhuraksha10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img align="right" alt="coding queen" width="350" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=People+who+vibed+with+me&color=FF69B4&style=flat" alt="profile views" /> </p>
+
+- 💼 Currently doing magic as a **Software Intern**
+- 💬 Talk to me about **Memes and Java Maybe **
+- 😄 Pronouns: **She/Her** (but you can call me “Queen of Laughter”)
+- 💌 Drop a “hey” 👉 **prabhuraksha10@gmail.com**
+- 🌈 Fun fact: *I write code withnsass by my side.*
+
+---
+
+### 💖 Let’s be social!
+🔗 **LinkedIn**: [Raksha Prabhu](https://linkedin.com/in/raksha-prabhu-8b07b0228)  
+📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
+🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
+🎥 **YouTube (Coming Soon!)**
+---
+
+### 💻 Languages & Tools I Slay With:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 ---
 
-## 🌟 About Me  
-🚀 **Engineering Graduate** | Tech Enthusiast | Content Creator  
-💡 Passionate about **AI, Data Science, and Web Development**  
-🔍 Skilled in **Python, SQL, Java, and Cloud Technologies**  
-🎯 Love **Problem-Solving, AI/ML, and Data Analytics**  
-🌍 **Future Goal:** Build impactful solutions & explore the world! ✈️  
+### 📊 Stats & Streaks (because why not show off a little?)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&title_color=FF69B4" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+</p>
 
 ---
+
+🦄 *Keep coding, keep glowing.* If you're reading this, remember: bugs fear you. 💅
+
 
 ## 🛠️ Tech Stack  
 
