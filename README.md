@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead]([(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ZzlzY2VuZHZ4bGowcDk5cXRodmQ3Mm9wZmV2MGtjZG52NGl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif)c)}
+# 🚀 Welcome to My GitHub Universe!
+
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ZzlzY2VuZHZ4bGowcDk5cXRodmQ3Mm9wZmV2MGtjZG52NGl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif)
 
 <h1 align="center">Hey hey! 💁‍♀️ I'm Raksha — I put fun in functionality 🎉💻</h1>
 
@@ -29,10 +31,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=People+who+vibed+with+me&color=FF69B4&style=flat" alt="profile views" /> </p>
 
 - 💼 Currently doing magic as a **Software Intern**
-- 💬 Talk to me about **Memes and Java Maybe **
+- 💬 Talk to me about **Memes and Java Maybe**
 - 😄 Pronouns: **She/Her** (but you can call me “Queen of Laughter”)
 - 💌 Drop a “hey” 👉 **prabhuraksha10@gmail.com**
-- 🌈 Fun fact: *I write code withnsass by my side.*
+- 🌈 Fun fact: *I write code with sass by my side.*
 
 ---
 
@@ -41,6 +43,7 @@ Here are some ideas to get you started:
 📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
 🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
 🎥 **YouTube (Coming Soon!)**
+
 ---
 
 ### 💻 Languages & Tools I Slay With:
@@ -55,11 +58,9 @@ Here are some ideas to get you started:
 
 ---
 
-
----
-
 🦄 *Keep coding, keep glowing.* If you're reading this, remember: bugs fear you. 💅
 
+---
 
 ## 🛠️ Tech Stack  
 
@@ -102,6 +103,7 @@ Here are some ideas to get you started:
 🔗 **LinkedIn**: [Raksha Prabhu](https://linkedin.com/in/raksha-prabhu-8b07b0228)  
 📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
 🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
-🎥 **YouTube (Coming Soon!)**  
+🎥 **YouTube (Coming Soon!)**
 
 ---
+
