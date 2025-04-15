@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead]([https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ZzlzY2VuZHZ4bGowcDk5cXRodmQ3Mm9wZmV2MGtjZG52NGl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif)c)
+![MasterHead]([(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ZzlzY2VuZHZ4bGowcDk5cXRodmQ3Mm9wZmV2MGtjZG52NGl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif)c)}
 
 <h1 align="center">Hey hey! 💁‍♀️ I'm Raksha — I put fun in functionality 🎉💻</h1>
 
@@ -55,16 +55,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Stats & Streaks (because why not show off a little?)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&title_color=FF69B4" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
-</p>
 
 ---
 
