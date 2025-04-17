@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="coding queen" width="350" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
+  <img align="center" alt="coding queen" width="350" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=People+who+vibed+with+me&color=FF69B4&style=flat" alt="profile views" /> </p>
