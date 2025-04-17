@@ -1,7 +1,5 @@
 # 🚧 Currently Under Construction (Like My Life)
 
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ZzlzY2VuZHZ4bGowcDk5cXRodmQ3Mm9wZmV2MGtjZG52NGl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif)
-
 <h1 align="center">Hey hey! 💁‍♀️ I'm Raksha — I put fun in functionality 🎉💻</h1>
 
 <p align="center">
@@ -10,7 +8,9 @@
   </a>
 </p>
 
-<img align="right" alt="coding queen" width="350" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
+<p align="center">
+  <img align="center" alt="coding queen" width="350" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=People+who+vibed+with+me&color=FF69B4&style=flat" alt="profile views" /> </p>
 
@@ -26,6 +26,7 @@
 🔗 **LinkedIn**: [Raksha Prabhu](https://linkedin.com/in/raksha-prabhu-8b07b0228)  
 📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
 🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
+📸 **Instagram**: [@oyeraksha](https://www.instagram.com/oyeraksha) | [@rakshaintocringe](https://www.instagram.com/rakshaintocringe)  
 🎥 **YouTube (Coming Soon!)**
 
 ---
@@ -87,6 +88,7 @@
 🔗 **LinkedIn**: [Raksha Prabhu](https://linkedin.com/in/raksha-prabhu-8b07b0228)  
 📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
 🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
+📸 **Instagram**: [@oyeraksha](https://www.instagram.com/oyeraksha) | [@rakshaintocringe](https://www.instagram.com/rakshaintocringe)  
 🎥 **YouTube (Coming Soon!)**
 
 ---
