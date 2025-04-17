@@ -83,12 +83,3 @@
 </p>
 
 ---
-
-## 📫 Let's Connect!  
-🔗 **LinkedIn**: [Raksha Prabhu](https://linkedin.com/in/raksha-prabhu-8b07b0228)  
-📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
-🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
-📸 **Instagram**: [@oyeraksha](https://www.instagram.com/oyeraksha) | [@rakshaintocringe](https://www.instagram.com/rakshaintocringe)  
-🎥 **YouTube (Coming Soon!)**
-
----
