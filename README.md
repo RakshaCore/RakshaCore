@@ -1,6 +1,6 @@
 # 🚧 Currently Under Construction (Like My Life)
 
-<h1 align="center">Hey hey! 💁‍♀️ I'm Raksha — I put fun in functionality 🎉💻</h1>
+<h1 align="center">Hey hey hey! 💁‍♀️ I'm Raksha — I put fun in functionality 🎉💻</h1>
 
 <p align="center">
   <a href="https://github.com/RakshaCore">
@@ -14,11 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=People+who+vibed+with+me&color=FF69B4&style=flat" alt="profile views" /> </p>
 
-- 💼 Currently doing magic as a **Software Intern**
-- 💬 Talk to me about **Memes and Java Maybe**
+- 💼 Currently doing tasks as a **Software Intern @ Xworkz**
+- 💬 Talk to me about **Memes,AIML,DS and Java Maybe**
 - 😄 Pronouns: **She/Her** (but you can call me “Queen of Laughter”)
 - 💌 Drop a “hey” 👉 **prabhuraksha10@gmail.com**
-- 🌈 Fun fact: *I write code with sass by my side.*
+- 🌈 🛸 Fun fact: *I’m an alien when it comes to coding—human when it comes to **sarcasm**.*
 
 ---
 
@@ -27,7 +27,7 @@
 📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
 🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
 📸 **Instagram**: [@oyeraksha](https://www.instagram.com/oyeraksha) | [@rakshaintocringe](https://www.instagram.com/rakshaintocringe)  
-🎥 **YouTube (Coming Soon!)**
+🎥 **YouTube Channel — Coming soon (once I get my life together... or at least fake it better)**
 
 ---
 
