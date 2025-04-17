@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/RakshaCore">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&center=true&vCenter=true&lines=Hello+Worldddd!!!!;Code+hard,+laugh+harder+💻😂;Coding+and+jokes:+That’s+my+kind+of+combo+☕🤣;Tech+vibes,+memes,+and+occasional+Java+code+💻✨">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&center=true&vCenter=true&lines=Hello+Worldddd!!!!;Code+hard,+laugh+harder+💻😂;Coding+n+jokes:+That’s+my+kinda+combo+☕🤣;Tech-vibes,+memes,+and+occasional+code+💻✨">
   </a>
 </p>
 
