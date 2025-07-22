@@ -17,7 +17,6 @@
 
 - 💼 Currently doing tasks as a **Software Intern @ Xworkz**
 - 💬 Talk to me about **Memes,AIML,DS and Java Maybe**
-- 😄 Pronouns: **She/Her** (but you can call me “Queen of Laughter”)
 - 💌 Drop a “hey” 👉 **prabhuraksha10@gmail.com**
 - 🌈 🛸 Fun fact: *I’m an alien when it comes to coding—human when it comes to **sarcasm**.*
 
@@ -58,14 +57,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📜 Certifications  
-🏅 **Supervised Machine Learning: Regression & Classification**  
-🏅 **Google AI Essentials**  
-🏅 **Java Masterclass**   
-🏅 **Foundations of Cybersecurity (Google)**  
 
 ---
 
