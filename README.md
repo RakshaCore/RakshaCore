@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RakshCore&show_icons=true&theme=default" width="48%" />
@@ -50,4 +50,4 @@
 
 <p align="center">
   <img src="https://github.com/RakshCore/RakshCore/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</p>->
